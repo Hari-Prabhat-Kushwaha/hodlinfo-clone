@@ -1,3 +1,5 @@
+# The app is deployed at: https://hodlinfo-clone.herokuapp.com/
+# or you can use below instructions
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
