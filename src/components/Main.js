@@ -106,7 +106,7 @@ const onThemeButtonClick = () => {
                             <td class="align-middle"><h4 class="table-text">₹ 25,83,138</h4></td>
                             <td class="align-middle"><h4 class="table-text"><span>₹ 25,75,167 / ₹ 26,08,984</span></h4></td>
                             <td class="align-middle"><h4 class="table-text color-red">-10.55 % %</h4></td>
-                            <td class="align-middle"><h4 class="table-text color-red">▼ ₹ ₹ 3,04,601</h4></td>
+                            <td class="align-middle"><h4 class="table-text color-red">▼ ₹  3,04,601</h4></td>
                         </tr>
                         <tr>
                             <td class="align-middle"><h4 class="table-text">5</h4></td>
